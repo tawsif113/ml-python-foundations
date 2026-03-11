@@ -8,15 +8,10 @@ This repository contains my Phase A preparation for transitioning into AI/ML.
 - Build strong foundations before moving to machine learning
 - Keep structured notes and practice exercises
 
-## Structure
-- `notebooks/` - practice notebooks
-- `notes/` - concept notes in my own words
-- `datasets/` - datasets for practice
-- `exercises/` - small coding exercises
-
 ## Current Progress
 - [x] Python basics
-- [ ] NumPy basics
-- [ ] Pandas basics
-- [ ] Data cleaning
-- [ ] Visualization basics
+- [x] NumPy basics
+- [x] Pandas basics
+- [x] Data cleaning
+- [x] Visualization basics
+- [x] Math ituation for ML 
